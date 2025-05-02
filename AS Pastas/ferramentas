@@ -1,0 +1,73 @@
+
+# Coleta de Dados
+Software criado pelo jornal para garantir a segurança, qualidade e precisão dos dados
+
+Cada coletor de dados populacional tinha seu aparelho mobile com o software
+
+# Armazenamento
+## ☁️ Cloud - AWS
+Amazon S3
+
+Amazon RDS (PostgreSQL, MySQL, Oracle)
+
+AWS Lambda
+
+AWS Backup
+
+### 🔐 Segurança
+IAM (Identity & Access Management)
+AWS KMS (Key Management Service)
+AWS CloudTrail (auditoria)
+
+
+
+### ⚙️ ETL
+AWS Glue
+Apache Airflow
+Apache Spark (via EMR ou Glue)
+
+
+
+💽 Armazenamento Local
+Oracle (PL/SQL)
+MongoDB
+MySQL
+
+
+## 📊 Análise de Dados
+
+🔹 Visualização e BI
+Power BI — Dashboards interativos para stakeholders
+
+
+## Python — Análise Estatística, Visualização e Machine Learning
+### 📈 Estatística e Ciência de Dados
+
+pandas — Manipulação de dados em DataFrames (estrutura essencial)
+
+numpy — Cálculos numéricos e vetorização
+
+scipy — Funções matemáticas e estatísticas avançadas
+
+statsmodels — Modelagem estatística clássica (regressões, testes de hipóteses, séries temporais)
+
+scikit-learn — Algoritmos de machine learning tradicionais (classificação, regressão, clustering, pré-processamento)
+
+
+
+### 📊 Visualização de Dados
+matplotlib — Biblioteca base para gráficos 2D
+
+seaborn — Gráficos estatísticos de alto nível (construída sobre matplotlib)
+
+plotly — Gráficos interativos e responsivos (ótimo para dashboards web)
+
+
+# 🧰 Ferramentas Complementares
+Jupyter Notebooks
+Trello
+Notion (documentação e organização)
+Git & GitHub
+Docker (ambientes reprodutíveis)
+VS Code / PyCharm
+
